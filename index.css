@@ -15,10 +15,16 @@ h2 {
 	text-align: left;
 	color: white;
 	font-size: 113%;
+	max-width: 51.8%;
 }
 
 .subheadings {
 	text-align: left;
 	font-family: 'Lucida Bright';
 	font-size: 75%;
+	max-width: 45%;
+}
+
+a {
+	color: white;
 }
