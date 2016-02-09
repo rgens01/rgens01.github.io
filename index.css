@@ -1,3 +1,24 @@
-div {
-	background-image: url(Rgens_homepage.jpg);
+body {
+	background-size: cover;
+	background-image: url(rgens_homepage.jpg);
+	background-attachment: fixed;
+}
+
+#welcome {
+	text-align: left;
+	font-family: 'Lucida Bright'; 
+	color: white;
+	font-size: 150%;
+}
+
+h2 {
+	text-align: left;
+	color: white;
+	font-size: 113%;
+}
+
+.subheadings {
+	text-align: left;
+	font-family: 'Lucida Bright';
+	font-size: 75%;
 }
