@@ -1,0 +1,20 @@
+#bio_bg {
+	background-image: url(cannon-franc.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#backdrop {
+	background-color: #2C3539; /*gunmetal*/
+	opacity: 0.45;
+	height: 100%;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+.underline {
+	width: 75%;
+}
