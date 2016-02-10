@@ -1,0 +1,84 @@
+#header {
+	text-align: left;
+	font-size: 250%;
+	font-family: 'Lucida Bright';
+	padding-bottom: 0%;
+	margin-bottom: 0%;
+}
+
+#bio_body {
+	background-color: #2C3539; /*gunmetal*/
+	opacity: 0.7;
+	height: 100%;	
+	color: white;
+	text-align: center;
+	margin-top: 4.75%;
+	margin-left: 4%;
+	margin-right: 4%;
+	padding-top: .5%;
+	padding-bottom: .5%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	font-family: 'Lucida Bright';
+}
+
+
+#footer {
+	background-color: #2C3539; /*gunmetal*/
+	opacity: 0.84;
+	height: 100%;
+	text-align: center;
+	color: white;
+	font-family: 'Lucida Bright';
+	padding-bottom: .5%;
+	margin-top: 25%;
+	margin-right: 40%;
+	margin-left: 40%;
+
+}
+
+h3 {
+	margin-top: 0%;
+}
+
+#resume_body{
+	background-color: #D3D3D3;
+}
+
+.head_data {
+	float: right;
+	font-size: 30%;
+	/*padding-bottom: 0%; */
+}
+
+.heading {
+	margin-bottom: 0%;
+	text-decoration: underline;
+	color: #00688B;
+}
+
+.subheading {
+	margin-top: .5%;
+	margin-bottom: 0%;
+}
+
+.details {
+	margin-top: 0%;
+	font-style: italic;
+	font-size: 90%
+}
+
+.underline {
+	width: 75%;
+}
+
+a {
+	color: white;
+}
+
+a:hover{
+	color: #007eb3;
+}
+
+
+
